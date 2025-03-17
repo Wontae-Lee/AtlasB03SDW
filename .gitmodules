@@ -1,0 +1,6 @@
+[submodule "external/hopr"]
+	path = external/hopr
+	url = https://github.com/hopr-framework/hopr.git
+[submodule "external/piclas"]
+	path = external/piclas
+	url = https://github.com/piclas-framework/piclas.git

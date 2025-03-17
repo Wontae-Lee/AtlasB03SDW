@@ -1,0 +1,13 @@
+pandas
+numpy
+nrlmsise00
+matplotlib
+psutil
+scikit-learn
+vtk
+h5py
+pyvista
+scipy
+gmsh ~= 4.13.1
+meshio
+openpnm

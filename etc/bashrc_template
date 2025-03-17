@@ -1,0 +1,21 @@
+
+# OpenMPI environment Variables
+export MPI_DIR=f/path/to/ATLAS/external/ompi
+export PATH="/path/to/ATLAS/external/ompi/bin:$PATH"
+export LD_LIBRARY_PATH="/path/to/ATLAS/external/ompi/lib:$LD_LIBRARY_PATH"
+
+# HOPR environment variables settings
+export hopr=/path/to/ATLAS/external/hopr/build/bin/hopr
+alias hopr='/path/to/ATLAS/external/hopr/build/bin/hopr'
+
+# piclas environment variables settings
+export piclas=/path/to/ATLAS/external/piclas/build/bin/piclas
+alias piclas='/path/to/ATLAS/external/piclas/build/bin/piclas'
+
+# Gmsh environment variables settings
+export gmsh=/path/to/ATLAS/external/gmsh/gmsh-4.13.0-Linux64/bin/gmsh
+alias gmsh='/path/to/ATLAS/external/gmsh/gmsh-4.13.0-Linux64/bin/gmsh'
+
+# Paraview environment variables settings
+export paraview=/path/to/ATLAS/external/paraview/ParaView-5.12.1-MPI-Linux-Python3.10-x86_64/bin/paraview
+alias paraview='/path/to/ATLAS/external/paraview/ParaView-5.12.1-MPI-Linux-Python3.10-x86_64/bin/paraview'
